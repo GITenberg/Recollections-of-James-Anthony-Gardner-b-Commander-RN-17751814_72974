@@ -1,0 +1,39 @@
+_repo: Recollections-of-James-Anthony-Gardner-b-Commander-RN-17751814_72974
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gardner, James Anthony
+    gutenberg_agent_id: '56892'
+    url: http://www.gutenberg.org/2009/agents/56892
+  editors:
+  - agent_name: Hamilton, Richard Vesey
+    gutenberg_agent_id: '56893'
+    url: http://www.gutenberg.org/2009/agents/56893
+  - agent_name: Laughton, John Knox
+    alias: Laughton, Sir John Knox
+    birthdate: 1830
+    deathdate: 1915
+    gutenberg_agent_id: '3145'
+    url: http://www.gutenberg.org/2009/agents/3145
+    wikipedia: https://en.wikipedia.org/wiki/John_Knox_Laughton
+description: ''
+gutenberg_issued: '2024-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72974'
+language: en
+pgterms:marc904: https://archive.org/details/recollectionsofj0032gard
+pgterms:marc905: 20201023005833gardner
+pgterms:marc906: '1906'
+pgterms:marc907: GB
+production_note: Richard Tonsing, MWS, and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aLondon :$bNaval Records Society, $c1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Recollections of James Anthony Gardner : $b Commander R.N. (1775–1814)'
+url: http://www.gutenberg.org/ebooks/72974
