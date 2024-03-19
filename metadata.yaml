@@ -1,5 +1,8 @@
 _repo: Recollections-of-James-Anthony-Gardner-b-Commander-RN-17751814_72974
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72974-h/images/cover.jpg
 creator:
   author:
     agent_name: Gardner, James Anthony
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3145
     wikipedia: https://en.wikipedia.org/wiki/John_Knox_Laughton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72974#Recollections-of-James-Anthony-Gardner-b-Commander-RN-17751814
 gutenberg_issued: '2024-02-16'
 gutenberg_type: Text
 identifiers:
